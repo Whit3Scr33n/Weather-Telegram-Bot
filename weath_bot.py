@@ -6,7 +6,7 @@ import aiosqlite as sql
 import getweather as gw
 
 
-TOKEN = "8073885441:AAEDUWIW74OiGlG2g2zxcPIWETr21q6Kdv8"
+TOKEN = ""
 DB_NAME = 'data.db'
 
 
